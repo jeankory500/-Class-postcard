@@ -39,7 +39,3 @@ button {
 	background-color: darkgray;
 	padding: 1px;
 }
-* {
-    border: 1px dashed red;
-    min-height: 10px;
-}
